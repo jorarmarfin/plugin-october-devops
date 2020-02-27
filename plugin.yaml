@@ -1,0 +1,6 @@
+plugin:
+    name: 'luismayta.devops::lang.plugin.name'
+    description: 'luismayta.devops::lang.plugin.description'
+    author: 'Luis Mayta'
+    icon: oc-icon-adjust
+    homepage: ''
