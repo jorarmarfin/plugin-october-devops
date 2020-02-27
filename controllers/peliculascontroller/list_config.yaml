@@ -1,0 +1,4 @@
+title: Blog Posts
+list: ~/plugins/luismayta/devops/models/peliculas/columns.yaml
+modelClass: Acme\Blog\Models\Post
+recordUrl: acme/blog/posts/update/:id

@@ -4,3 +4,13 @@ plugin:
     author: 'Luis Mayta'
     icon: oc-icon-adjust
     homepage: ''
+navigation:
+    main-menu-item:
+        label: Devops
+        url: luismayta/devops/peliculascontroller
+        icon: icon-life-ring
+        sideMenu:
+            side-menu-item:
+                label: 'Menu Item'
+                icon: icon-sitemap
+                url: /
